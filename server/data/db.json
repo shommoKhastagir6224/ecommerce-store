@@ -1,0 +1,212 @@
+{
+  "users": [
+    {
+      "name": "Admin",
+      "email": "admin@shommostore.com",
+      "password": "$2a$10$zd7VtUhWbvIAkvGm1tCffuNkRYtdQWFvwr9WHxlxP8qsS0wSyvQUS",
+      "role": "admin",
+      "isActive": 1,
+      "phone": "",
+      "avatar": "",
+      "id": "7061e6b4-bb96-4292-8624-a5ff4ef3eeb9",
+      "_id": "7061e6b4-bb96-4292-8624-a5ff4ef3eeb9",
+      "createdAt": "2026-05-06T08:42:31.523Z",
+      "updatedAt": "2026-05-06T08:42:31.523Z"
+    },
+    {
+      "name": "shommo",
+      "email": "shommokhastagir204@gmail.com",
+      "password": "$2a$10$4YOEcp0fnvnNiqAY.F.V9uCRk1Cf0xm68W/ON6VbunGi59G2CRwoW",
+      "phone": "01860024584",
+      "role": "staff",
+      "isActive": true,
+      "avatar": "",
+      "wishlist": [],
+      "addresses": [],
+      "id": "4973acb3-b748-4bd9-a203-7e410b99fd40",
+      "_id": "4973acb3-b748-4bd9-a203-7e410b99fd40",
+      "createdAt": "2026-05-06T10:11:57.720Z",
+      "updatedAt": "2026-05-06T10:30:18.950Z"
+    }
+  ],
+  "products": [
+    {
+      "name": "Wireless Headphones",
+      "slug": "wireless-headphones-1778056951528",
+      "description": "High quality Wireless Headphones at affordable price.",
+      "price": 2500,
+      "discountPrice": 0,
+      "stock": 50,
+      "category": "Electronics",
+      "images": "[]",
+      "ratings": 0,
+      "numReviews": 0,
+      "isActive": 1,
+      "isFeatured": 1,
+      "id": "a65996f2-f21c-4eec-af34-3f83a131d939",
+      "_id": "a65996f2-f21c-4eec-af34-3f83a131d939",
+      "createdAt": "2026-05-06T08:42:31.528Z",
+      "updatedAt": "2026-05-06T08:42:31.528Z"
+    },
+    {
+      "name": "Cotton T-Shirt",
+      "slug": "cotton-t-shirt-1778056951529",
+      "description": "High quality Cotton T-Shirt at affordable price.",
+      "price": 450,
+      "discountPrice": 0,
+      "stock": 100,
+      "category": "Clothing",
+      "images": "[]",
+      "ratings": 0,
+      "numReviews": 0,
+      "isActive": 1,
+      "isFeatured": 1,
+      "id": "426fe272-346d-44c8-8815-cdb53f794a29",
+      "_id": "426fe272-346d-44c8-8815-cdb53f794a29",
+      "createdAt": "2026-05-06T08:42:31.529Z",
+      "updatedAt": "2026-05-06T08:42:31.529Z"
+    },
+    {
+      "name": "JavaScript Book",
+      "slug": "javascript-book-1778056951529",
+      "description": "High quality JavaScript Book at affordable price.",
+      "price": 800,
+      "discountPrice": 0,
+      "stock": 30,
+      "category": "Books",
+      "images": "[]",
+      "ratings": 0,
+      "numReviews": 0,
+      "isActive": 1,
+      "isFeatured": 1,
+      "id": "0ca4f0c4-912d-4b2c-9b4e-44d43bd5912a",
+      "_id": "0ca4f0c4-912d-4b2c-9b4e-44d43bd5912a",
+      "createdAt": "2026-05-06T08:42:31.529Z",
+      "updatedAt": "2026-05-06T08:42:31.529Z"
+    },
+    {
+      "name": "Coffee Maker",
+      "slug": "coffee-maker-1778056951530",
+      "description": "High quality Coffee Maker at affordable price.",
+      "price": 3200,
+      "discountPrice": 0,
+      "stock": 20,
+      "category": "Home & Kitchen",
+      "images": "[]",
+      "ratings": 0,
+      "numReviews": 0,
+      "isActive": 1,
+      "isFeatured": 1,
+      "id": "8116cb60-b545-4858-9d4a-a61f514a6ed1",
+      "_id": "8116cb60-b545-4858-9d4a-a61f514a6ed1",
+      "createdAt": "2026-05-06T08:42:31.530Z",
+      "updatedAt": "2026-05-06T08:42:31.530Z"
+    },
+    {
+      "name": "Running Shoes",
+      "slug": "running-shoes-1778056951530",
+      "description": "High quality Running Shoes at affordable price.",
+      "price": 1800,
+      "discountPrice": 0,
+      "stock": 40,
+      "category": "Sports",
+      "images": "[]",
+      "ratings": 0,
+      "numReviews": 0,
+      "isActive": 1,
+      "isFeatured": 1,
+      "id": "81ec992d-fd14-4338-b187-0ca0290cda30",
+      "_id": "81ec992d-fd14-4338-b187-0ca0290cda30",
+      "createdAt": "2026-05-06T08:42:31.530Z",
+      "updatedAt": "2026-05-06T08:42:31.530Z"
+    },
+    {
+      "name": "sari",
+      "brand": "shommo",
+      "category": "fb8bb887-f6b1-4040-b01c-7d841efd864d",
+      "subcategory": "",
+      "price": 1200,
+      "discountPrice": 10,
+      "stock": 200,
+      "shortDesc": "most beautifull product ever",
+      "description": "you are the most luky person who buy the sari\n",
+      "thumbnail": "https://share.google/5tGXzHvlv9pzpoocE",
+      "deliveryCharge": 200,
+      "deliveryDays": "3-5 days",
+      "isFeatured": true,
+      "isFlashSale": false,
+      "isNewArrival": true,
+      "colors": [
+        {
+          "name": "all colour",
+          "hex": "#888"
+        }
+      ],
+      "sizes": [
+        "all sige"
+      ],
+      "isActive": 1,
+      "ratings": 0,
+      "numReviews": 0,
+      "sold": 0,
+      "slug": "sari-1778063399600",
+      "id": "16b30a6a-c25c-468e-9be6-3e200d4695fc",
+      "_id": "16b30a6a-c25c-468e-9be6-3e200d4695fc",
+      "createdAt": "2026-05-06T10:29:59.601Z",
+      "updatedAt": "2026-05-06T10:29:59.601Z"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Electronics",
+      "slug": "electronics",
+      "isActive": 1,
+      "id": "e5e4b6a0-c5cc-4c72-b2a3-da59f8de710d",
+      "_id": "e5e4b6a0-c5cc-4c72-b2a3-da59f8de710d",
+      "createdAt": "2026-05-06T08:42:31.525Z",
+      "updatedAt": "2026-05-06T08:42:31.525Z"
+    },
+    {
+      "name": "Clothing",
+      "slug": "clothing",
+      "isActive": 1,
+      "id": "fb8bb887-f6b1-4040-b01c-7d841efd864d",
+      "_id": "fb8bb887-f6b1-4040-b01c-7d841efd864d",
+      "createdAt": "2026-05-06T08:42:31.526Z",
+      "updatedAt": "2026-05-06T08:42:31.526Z"
+    },
+    {
+      "name": "Books",
+      "slug": "books",
+      "isActive": 1,
+      "id": "93ddceb4-2144-4dbe-961d-dcdd1f50a288",
+      "_id": "93ddceb4-2144-4dbe-961d-dcdd1f50a288",
+      "createdAt": "2026-05-06T08:42:31.527Z",
+      "updatedAt": "2026-05-06T08:42:31.527Z"
+    },
+    {
+      "name": "Home & Kitchen",
+      "slug": "home-kitchen",
+      "isActive": 1,
+      "id": "3e296daf-ca64-4341-8e1f-efd2b6b25b20",
+      "_id": "3e296daf-ca64-4341-8e1f-efd2b6b25b20",
+      "createdAt": "2026-05-06T08:42:31.527Z",
+      "updatedAt": "2026-05-06T08:42:31.527Z"
+    },
+    {
+      "name": "Sports",
+      "slug": "sports",
+      "isActive": 1,
+      "id": "31a46b4a-1069-46b2-84d0-0a3680ee3a70",
+      "_id": "31a46b4a-1069-46b2-84d0-0a3680ee3a70",
+      "createdAt": "2026-05-06T08:42:31.528Z",
+      "updatedAt": "2026-05-06T08:42:31.528Z"
+    }
+  ],
+  "orders": [],
+  "carts": [],
+  "wishlists": [],
+  "reviews": [],
+  "coupons": [],
+  "banners": []
+}
